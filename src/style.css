@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(105, 15, 15);
+  color: burlywood;
+  text-align: center;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+}
+.menu a {
+  padding: 20px;
+  text-decoration: none;
+  color: rgb(214, 130, 19);
+}
+img {
+  max-width: 400px;
+}
